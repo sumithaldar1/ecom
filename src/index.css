@@ -115,3 +115,7 @@ img.medium{
     margin: 0.1rem;
     border-radius: 1rem black solid;
 }
+
+.rating span:last-child{
+  color: black;
+    }
